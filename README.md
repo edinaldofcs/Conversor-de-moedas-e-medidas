@@ -1,6 +1,6 @@
 # CONVERSOR DE MOEDAS E MEDIDAS
 
-`Baixe o Executável`: <a href="https://github.com/edinaldofcs/Conversor-de-moedas-e-medidas/blob/main/Efcsconversor-executavel.jar?raw=true" target="_blank">download</a>
+`Baixe o Executável`: <a href="https://github.com/edinaldofcs/Conversor-de-moedas-e-medidas/blob/main/conversor-de-moedas-e-medidas.jar?raw=true" target="_blank">download</a>
 
 ## Linguagem utilizada:
  - JAVA
