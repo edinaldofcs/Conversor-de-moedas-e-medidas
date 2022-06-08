@@ -9,10 +9,25 @@ import java.net.http.HttpResponse;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/**
+ * Classe que recebe duas moedas erealiza a conversão, de acordo com a resposta da requisição
+ * 
+ * @author Edinaldo F. C .Santos
+ * @version 0.1
+ *
+ */
 public class CotacaoRequest {
 
 	double cotacao;
 	
+	/**
+	 * Construtor da Cotação
+	 * 
+	 * @param Moeda moeda1;
+	 * @param Moeda moeda2
+	 * 
+	 * @return: Atualiza a cotação no momento em que é instanciado
+	 */
 	public CotacaoRequest(Moeda moeda1, Moeda moeda2) {
 		try {
 			atualizarCotacao(moeda1, moeda2);
