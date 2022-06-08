@@ -19,6 +19,14 @@ public class Medida {
 		return this.nome;
 	}
 	
+	/**	
+	 * Recebe uma medida de retorno e o valor da medida atual e realiza a conversão
+	 * 
+	 * @param 
+	 * @param;
+	 * 
+	 * @return: valor convertido para a medida selecionada
+	 */
 	public double converterMedida(Medida outraMedida, double valor) {
 		
 		if(outraMedida.getMedidaEmMetros() > this.medidaEmMetros) {
