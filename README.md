@@ -5,7 +5,7 @@
 ## Linguagem utilizada:
  - JAVA
 
-##Principais bibliotecas utilizadas
+## Principais bibliotecas utilizadas
 - java.swing (Componentes de layout);
 - java.net (integração com API)
 
